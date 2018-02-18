@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/Camera.cpp
+Camera.h
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/Camera.h
+glm/glm.hpp
+-
+
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/Camera.h
+common.h
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/common.h
+LiteMath.h
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/LiteMath.h
+
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/LiteMath.h
+math.h
+-
+stdlib.h
+-
+memory
+-
+vector
+-
+
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/ShaderProgram.cpp
+ShaderProgram.h
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/ShaderProgram.h
+
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/ShaderProgram.h
+unordered_map
+-
+common.h
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/common.h
+LiteMath.h
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/LiteMath.h
+
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/common.h
+iostream
+-
+fstream
+-
+string
+-
+glad/glad.h
+-
+
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/main.cpp
+common.h
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/common.h
+ShaderProgram.h
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/ShaderProgram.h
+Camera.h
+/home/soloway2010/Рабочий стол/credit_2017_templates/01_triangle/Camera.h
+GLFW/glfw3.h
+-
+random
+-
+
+dependencies/include/GLAD/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+dependencies/include/GLAD/glad/glad.h
+windows.h
+-
+stddef.h
+-
+KHR/khrplatform.h
+-
+inttypes.h
+-
+inttypes.h
+-
+inttypes.h
+-
+stdint.h
+-
+stdint.h
+-
+inttypes.h
+-
+

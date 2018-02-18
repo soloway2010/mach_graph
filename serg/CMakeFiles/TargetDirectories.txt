@@ -1,0 +1,3 @@
+/home/soloway2010/Рабочий стол/serg/CMakeFiles/rebuild_cache.dir
+/home/soloway2010/Рабочий стол/serg/CMakeFiles/edit_cache.dir
+/home/soloway2010/Рабочий стол/serg/CMakeFiles/main.dir

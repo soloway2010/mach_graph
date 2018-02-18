@@ -1,0 +1,3 @@
+/home/soloway2010/Рабочий стол/Машграф/04/project/CMakeFiles/rebuild_cache.dir
+/home/soloway2010/Рабочий стол/Машграф/04/project/CMakeFiles/edit_cache.dir
+/home/soloway2010/Рабочий стол/Машграф/04/project/CMakeFiles/main.dir

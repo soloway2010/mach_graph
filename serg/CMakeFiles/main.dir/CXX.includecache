@@ -1,0 +1,130 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/soloway2010/Рабочий стол/serg/./dependencies/include/stb_image/stb_image.h
+stb_image.h
+/home/soloway2010/Рабочий стол/serg/./dependencies/include/stb_image/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/home/soloway2010/Рабочий стол/serg/Camera.cpp
+Camera.h
+/home/soloway2010/Рабочий стол/serg/Camera.h
+glm/glm.hpp
+-
+
+/home/soloway2010/Рабочий стол/serg/Camera.h
+common.h
+/home/soloway2010/Рабочий стол/serg/common.h
+LiteMath.h
+/home/soloway2010/Рабочий стол/serg/LiteMath.h
+
+/home/soloway2010/Рабочий стол/serg/LiteMath.h
+math.h
+-
+stdlib.h
+-
+memory
+-
+vector
+-
+
+/home/soloway2010/Рабочий стол/serg/ShaderProgram.cpp
+ShaderProgram.h
+/home/soloway2010/Рабочий стол/serg/ShaderProgram.h
+
+/home/soloway2010/Рабочий стол/serg/ShaderProgram.h
+unordered_map
+-
+common.h
+/home/soloway2010/Рабочий стол/serg/common.h
+LiteMath.h
+/home/soloway2010/Рабочий стол/serg/LiteMath.h
+
+/home/soloway2010/Рабочий стол/serg/common.h
+iostream
+-
+fstream
+-
+string
+-
+glad/glad.h
+-
+
+/home/soloway2010/Рабочий стол/serg/main.cpp
+common.h
+/home/soloway2010/Рабочий стол/serg/common.h
+ShaderProgram.h
+/home/soloway2010/Рабочий стол/serg/ShaderProgram.h
+Camera.h
+/home/soloway2010/Рабочий стол/serg/Camera.h
+GLFW/glfw3.h
+-
+random
+-
+cmath
+-
+string.h
+-
+stdio.h
+-
+./dependencies/include/stb_image/stb_image.h
+/home/soloway2010/Рабочий стол/serg/./dependencies/include/stb_image/stb_image.h
+
+dependencies/include/GLAD/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+dependencies/include/GLAD/glad/glad.h
+windows.h
+-
+stddef.h
+-
+KHR/khrplatform.h
+-
+inttypes.h
+-
+inttypes.h
+-
+inttypes.h
+-
+stdint.h
+-
+stdint.h
+-
+inttypes.h
+-
+
